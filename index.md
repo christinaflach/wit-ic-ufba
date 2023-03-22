@@ -2,6 +2,17 @@
 layout: default
 ---
 
+# Itens a considerar:
+
+* Participantes
+* Pink Bus
+* PrograMainha
+* Tiê (?)
+* Cursos e Tutoriais
+* outros?
+
+
+
 Text can be **bold**, _italic_, or ~~strikethrough~~.
 
 [Link to another page](./another-page.html).
