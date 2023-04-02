@@ -19,8 +19,8 @@ minimal_mistakes_skin    : "air" #, "aqua", "contrast", "dark", "dirt", "neon", 
 locale                   : "en-US"
 title                    : "IC-WIT"
 title_separator          : "-"
-subtitle                 : # site tagline that appears below site title in masthead
-name                     : "Your Name"
+subtitle                 : "Mulheres na Computação - UFBA"
+name                     : "IC-WIT"
 description              : "Mulheres na Computação - UFBA."
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
