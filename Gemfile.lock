@@ -91,6 +91,8 @@ PLATFORMS
   x86_64-darwin-21
 
 DEPENDENCIES
+  jekyll
+  kramdown-parser-gfm
   minimal-mistakes-jekyll
 
 BUNDLED WITH
